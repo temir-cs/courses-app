@@ -1,0 +1,11 @@
+.main-content {
+	width: 100%;
+	padding: 15px;
+	border: 1px solid lightseagreen;
+}
+
+.search-add-section {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
